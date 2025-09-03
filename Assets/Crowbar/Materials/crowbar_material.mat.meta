@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 809c2cc8244fa344792ca3ec443f6149
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20500
+  packageName: Crowbar
+  packageVersion: initial
+  assetPath: Assets/Crowbar/Materials/crowbar_material.mat
+  uploadId: 9662
